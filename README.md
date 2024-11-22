@@ -1,6 +1,6 @@
-# Biografia Profissional - Alan Freitas
+# Biografia - Profissional de Cibersegurança
 
-Este projeto é uma página web biográfica desenvolvida para apresentar a carreira e as habilidades de Alan Rodrigo Pereira Freitas, um profissional de cibersegurança com vasta experiência em operações industriais.
+Este projeto é uma página web biográfica desenvolvida para apresentar a carreira e as habilidades de Alan Rodrigo Pereira Freitas, um profissional de cibersegurança com vasta experiência em serviço militar e operações industriais.
 
 ## Tabela de Conteúdos
 - [Visão Geral](#visão-geral)
@@ -13,7 +13,7 @@ Este projeto é uma página web biográfica desenvolvida para apresentar a carre
 - [Contribuição](#contribuição)
 
 ## Visão Geral
-Esta página web biográfica foi construída com o objetivo de apresentar o perfil profissional de Alan Freitas, destacando sua experiência e competências em cibersegurança, operações industriais, e certificações relevantes. 
+Esta página web biográfica foi construída com o objetivo de apresentar o perfil profissional de Alan Freitas, destacando sua experiência e competências em cibersegurança, serviço militar, operações industriais e certificações relevantes. 
 
 ## Tecnologias Utilizadas
 - **HTML5**: Para a estrutura e conteúdo.
@@ -29,9 +29,9 @@ Esta página web biográfica foi construída com o objetivo de apresentar o perf
 
 ## Funcionalidades
 - **Seções Principais**:
-    - **Cabeçalho**: Exibe o nome e o cargo do profissional.
-    - **Objetivo**: Apresenta o propósito profissional de Alan.
-    - **Sobre Mim**: Uma descrição detalhada da trajetória de Alan.
+    - **Cabeçalho**: Exibe o nome e cargo do profissional.
+    - **Objetivo**: Apresenta o propósito profissional de Alan Freitas.
+    - **Sobre Mim**: Uma descrição detalhada da trajetória de Alan Freitas.
     - **Habilidades**: Barras de progresso que representam o nível de domínio em HTML, CSS, JavaScript, e Python.
     - **Rodapé**: Informações de copyright.
 
@@ -52,11 +52,11 @@ A página foi projetada para adaptar-se a diferentes tamanhos de tela usando `@m
 ## Como Executar o Projeto
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/alanrodrigofreitas/minhaBiografia
+    git clone https://github.com/alanrodrigofreitas/autoBio
     ```
 2. **Acesse o diretório do projeto**:
     ```bash
-    cd minhaBiografia
+    cd autoBio
     ```
 3. **Abra o arquivo `index.html`** no navegador.
 
